@@ -1,0 +1,3 @@
+dependencies {
+    implementation 'org.jmonkeyengine:jme3-core:3.3.0-stable'
+}
